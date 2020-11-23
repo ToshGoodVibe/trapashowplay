@@ -1,0 +1,33 @@
+{
+  "name": "Trapashow Play",
+  "short_name": "Trapashow ",
+  "lang": "pt-BR",
+  "start_url": "https://www.trapashowplay.com/",
+  "display": "standalone",
+  "orientation": "portrait-secondary",
+  "theme_color": "#ffffff",
+  "background_color":"#ffffff",
+  "icons": [
+    {
+      "src": "https://1.bp.blogspot.com/-8Uz2zB5uhGY/X7wJ0pKuENI/AAAAAAAABH8/JBjRuxKJKuotD51tP0BSVe31hB00KQbmQCLcBGAsYHQ/s192/android-chrome-192.png"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-LlLjxZyXue4/X7wJ0pWvaNI/AAAAAAAABIE/y03WwnZWuK4IOengAZwC9lxqQsuycHLxgCLcBGAsYHQ/s512/android-chrome-512.png"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-yrMXudQKMHk/X7wLQnFmhoI/AAAAAAAABI4/yGbqDpr_4PoxrVPt2oRh1018tkj3ch1KgCLcBGAsYHQ/s180/apple-touch-icon.png"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-KqfYs5NzPcI/X7wJ1E_PkJI/AAAAAAAABIM/nJtmJp10iD823WhBg1_ShcEJnHbuFXwWQCLcBGAsYHQ/s32/favicon-32.png"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-VZ54UW-DGkA/X7wJ1DOQipI/AAAAAAAABII/fb5pr7y9xSoiFDD0HxeMocPEk_ezjrS2gCLcBGAsYHQ/s16/favicon-16.png"
+    },
+	{
+  "theme_color": "#000000"
+},
+    {
+      "src": "https://1.bp.blogspot.com/-Yo6GtZvfvGg/X7wJ0tOHhlI/AAAAAAAABIA/fjaWldUUxTUzhx3ath0GCm-jp7S3cgjwgCLcBGAsYHQ/s144/apple-touch-icon-144.png"
+    }
+  ]
+}
