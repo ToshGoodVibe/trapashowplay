@@ -2,7 +2,7 @@
   "name": "Trapashow Play",
   "short_name": "Trapashow ",
   "lang": "pt-BR",
-  "start_url": ""/",
+  "start_url": "/",
   "display": "standalone",
   "orientation": "portrait-secondary",
   "theme_color": "#ffffff",
