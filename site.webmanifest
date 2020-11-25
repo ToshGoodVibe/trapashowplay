@@ -2,12 +2,12 @@
   "name": "Trapashow Play",
   "short_name": "Trapashow ",
   "lang": "pt-BR",
-  "start_url": "https://www.trapashowplay.com/?=.index",
+  "start_url": "https://www.trapashowplay.com/",
   "display": "standalone",
   "orientation": "portrait-secondary",
   "theme_color": "#ffffff",
   "background_color":"#ffffff",
-  "scope":"https://www.trapashowplay.com/?=.index",
+  "scope":"https://www.trapashowplay.com/",
   "icons": [
     {
       "src": "https://1.bp.blogspot.com/-8Uz2zB5uhGY/X7wJ0pKuENI/AAAAAAAABH8/JBjRuxKJKuotD51tP0BSVe31hB00KQbmQCLcBGAsYHQ/s192/android-chrome-192.png",
