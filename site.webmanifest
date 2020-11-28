@@ -9,30 +9,65 @@
   "background_color":"#ffffff",
   "scope":"https://www.trapashowplay.com/",
   "icons": [
-    {
-      "src": "https://1.bp.blogspot.com/-8Uz2zB5uhGY/X7wJ0pKuENI/AAAAAAAABH8/JBjRuxKJKuotD51tP0BSVe31hB00KQbmQCLcBGAsYHQ/s192/android-chrome-192.png",
-	  "sizes":"192x192","type":"image/png"
-    },
-    {
-      "src": "https://1.bp.blogspot.com/-LlLjxZyXue4/X7wJ0pWvaNI/AAAAAAAABIE/y03WwnZWuK4IOengAZwC9lxqQsuycHLxgCLcBGAsYHQ/s512/android-chrome-512.png",
-	  "sizes":"512x512","type":"image/png"
-    },
-    {
-      "src": "https://1.bp.blogspot.com/-yrMXudQKMHk/X7wLQnFmhoI/AAAAAAAABI4/yGbqDpr_4PoxrVPt2oRh1018tkj3ch1KgCLcBGAsYHQ/s180/apple-touch-icon.png",
-	  "sizes":"180x180","type":"image/png"
-    },
-    {
-      "src": "https://1.bp.blogspot.com/-KqfYs5NzPcI/X7wJ1E_PkJI/AAAAAAAABIM/nJtmJp10iD823WhBg1_ShcEJnHbuFXwWQCLcBGAsYHQ/s32/favicon-32.png",
-	  "sizes":"32x32","type":"image/png"
-    },
-    {
-      "src": "https://1.bp.blogspot.com/-VZ54UW-DGkA/X7wJ1DOQipI/AAAAAAAABII/fb5pr7y9xSoiFDD0HxeMocPEk_ezjrS2gCLcBGAsYHQ/s16/favicon-16.png",
-	  "sizes":"16x16","type":"image/png"
-    },
-	
-    {
-      "src": "https://1.bp.blogspot.com/-Yo6GtZvfvGg/X7wJ0tOHhlI/AAAAAAAABIA/fjaWldUUxTUzhx3ath0GCm-jp7S3cgjwgCLcBGAsYHQ/s144/apple-touch-icon-144.png",
-	  "sizes":"144x144","type":"image/png"
-    }
+   {
+   "src": "https://1.bp.blogspot.com/-Wy22LJP_DNA/X8IUMQK2y5I/AAAAAAAABKo/eYsvFwr8GkQl_U6FqBobDD2Fpkh_vN-RQCLcBGAsYHQ/s16/favicon.ico",
+   "sizes": "16x16",
+   "type": "image\/png",
+   "density": "0.75"
+  },
+  {
+   "src": "https://1.bp.blogspot.com/-gGBOvXZgE0I/X8IULzdR9-I/AAAAAAAABKg/GU_UBbqNlQ0IZBt_Hz-b0xJV6KW0JLtbACLcBGAsYHQ/s32/favicon-32x32.png",
+   "sizes": "32x32",
+   "type": "image\/png",
+   "density": "0.75"
+  },
+  {
+   "src": "https://1.bp.blogspot.com/-s5UCKIMfcT4/X8IUH7u4S0I/AAAAAAAABJo/ANRoIk3QV1IPzRuztAXEv5kbj-7A43Z2ACLcBGAsYHQ/s36/android-icon-36x36.png",
+   "sizes": "36x36",
+   "type": "image\/png",
+   "density": "0.75"
+  },
+  {
+   "src": "https://1.bp.blogspot.com/-_kt5xzBgRl4/X8IUInO42tI/AAAAAAAABJw/n3bhiPj2xnwy2OojwGR6Kk29-s3eWL6xwCLcBGAsYHQ/s48/android-icon-48x48.png",
+   "sizes": "48x48",
+   "type": "image\/png",
+   "density": "1.0"
+  },
+  {
+   "src": "https://1.bp.blogspot.com/-8O4QPmNPGWU/X8IUJNiEzPI/AAAAAAAABJ0/f3MrCWGu5ZMjJ4c6W0G1Md0gTYmMLQb7ACLcBGAsYHQ/s72/android-icon-72x72.png",
+   "sizes": "72x72",
+   "type": "image\/png",
+   "density": "1.5"
+  },
+  {
+   "src": "https://1.bp.blogspot.com/-AShZWQq_Cwo/X8IUJk6J-tI/AAAAAAAABJ4/aIjwuOSRQrc0zgzjkjQPRigCsqKz6-j9QCLcBGAsYHQ/s96/android-icon-96x96.png",
+   "sizes": "96x96",
+   "type": "image\/png",
+   "density": "2.0"
+  },
+  {
+   "src": "https://1.bp.blogspot.com/-vVJLT51bBNI/X8IUH7VFCaI/AAAAAAAABJk/_zwr_W5QitkVW4lCfO0JyIt68RkAVCyAQCLcBGAsYHQ/s144/android-icon-144x144.png",
+   "sizes": "144x144",
+   "type": "image\/png",
+   "density": "3.0"
+  },
+  {
+   "src": "https://1.bp.blogspot.com/-bRAFNE5sib4/X8IUKRQzvuI/AAAAAAAABKI/IBMNz8aPyAc7ebAIAtTFJrGMW9L6IgWdwCLcBGAsYHQ/s180/apple-icon-180x180.png",
+   "sizes": "180x180",
+   "type": "image\/png",
+   "density": "3.0"
+  },
+  {
+    "src": "https://1.bp.blogspot.com/-rQMgkiAAhww/X8IUHzLo5vI/AAAAAAAABJs/eswZ_kZuS_wB_aCWxjcqwvPcGvN0pO3fACLcBGAsYHQ/s192/android-icon-192x192.png",
+   "sizes": "192x192",
+   "type": "image\/png",
+   "density": "4.0"
+  },
+  {
+   "src": "https://1.bp.blogspot.com/-rQMgkiAAhww/X8IUHzLo5vI/AAAAAAAABJs/eswZ_kZuS_wB_aCWxjcqwvPcGvN0pO3fACLcBGAsYHQ/s192/android-icon-192x192.png",
+   "sizes": "512x512",
+   "type": "image\/png",
+   "density": "4.0"
+  }
   ]
 }
