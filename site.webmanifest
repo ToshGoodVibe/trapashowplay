@@ -9,7 +9,13 @@
   "background_color":"#ffffff",	
   "scope":"https://www.trapashowplay.com/",
   "icons": [
-    {
+   {
+      "src": "https://1.bp.blogspot.com/-1WxsH1FuoJo/X8ym845xy0I/AAAAAAAABOE/kuBXBggzDwMsH50BM83tS3qdPyn1JmNnQCLcBGAsYHQ/s196/maskable_icon.png",
+      "sizes": "196x196",
+      "type": "image/png",
+      "purpose": "maskable" 
+    },
+	  {
       "src": "https://1.bp.blogspot.com/-rQMgkiAAhww/X8IUHzLo5vI/AAAAAAAABJs/eswZ_kZuS_wB_aCWxjcqwvPcGvN0pO3fACLcBGAsYHQ/s192/android-icon-192x192.png",
 	  "sizes":"192x192","type":"image/png"
     },
