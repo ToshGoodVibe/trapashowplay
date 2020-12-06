@@ -7,6 +7,8 @@
   "orientation": "portrait-secondary",
   "theme_color": "#ffffff",
   "background_color":"#ffffff",
+  "purpose": "maskable"	"src": "https://1.bp.blogspot.com/-rQMgkiAAhww/X8IUHzLo5vI/AAAAAAAABJs/eswZ_kZuS_wB_aCWxjcqwvPcGvN0pO3fACLcBGAsYHQ/s192/android-icon-192x192.png",
+      "sizes":"192x192","type":"image/png",	
   "scope":"https://www.trapashowplay.com/",
   "icons": [
     {
@@ -33,9 +35,7 @@
     {
       "src": "https://1.bp.blogspot.com/-vVJLT51bBNI/X8IUH7VFCaI/AAAAAAAABJk/_zwr_W5QitkVW4lCfO0JyIt68RkAVCyAQCLcBGAsYHQ/s144/android-icon-144x144.png",
 	  "sizes":"144x144","type":"image/png"
-    },
-     { "src": "https://1.bp.blogspot.com/-rQMgkiAAhww/X8IUHzLo5vI/AAAAAAAABJs/eswZ_kZuS_wB_aCWxjcqwvPcGvN0pO3fACLcBGAsYHQ/s192/android-icon-192x192.png",
-      "sizes":"192x192","type":"image/png","purpose": "maskable"
+    }
       	  
     }
   ]
