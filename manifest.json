@@ -3,7 +3,7 @@
     "short_name": "Trapashow ",
     "lang": "pt-BR",
     "id": "https://www.trapashowplay.com/",
-    "start_url": "\/?utm_source=homescreen",
+    "start_url": "https://www.trapashowplay.com/",
     "description":"Trapashow play entretenimento videos online, filmes, musicas, videos motivacionais, series humor e comedia, artes marciais, martial arts.",
     "display": "standalone",
     "orientation": "portrait-secondary",
@@ -49,7 +49,7 @@
         }
     ],
     serviceworker: {
-      src: "\/sw.js"
+      src: "https://github.com/ToshGoodVibe/trapashowplay/blob/main/pwabuilder-sw.js"
     }
     
     "url": "https://www.trapashowplay.com/",
