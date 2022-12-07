@@ -49,7 +49,7 @@
         }
     ],
     serviceworker: {
-      src: "https://github.com/ToshGoodVibe/trapashowplay/blob/main/pwabuilder-sw.js"
+      src: "https://www.trapashowplay.com/service-worker.html"
     }
     
     "url": "https://www.trapashowplay.com/",
