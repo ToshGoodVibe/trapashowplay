@@ -3,13 +3,13 @@
     "short_name": "Trapashow ",
     "lang": "pt-BR",
     "id": "https://www.trapashowplay.com/",
-    "start_url": "https://www.trapashowplay.com/",
+    "start_url": "\/?utm_source=homescreen",
     "description":"Trapashow play entretenimento videos online, filmes, musicas, videos motivacionais, series humor e comedia, artes marciais, martial arts.",
     "display": "standalone",
     "orientation": "portrait-secondary",
     "theme_color": "#ffffff",
     "background_color": "#ffffff",
-    "scope": "https://www.trapashowplay.com/",
+    "scope": "\/",
     "icons": [
         {
             "src": "https://1.bp.blogspot.com/-1WxsH1FuoJo/X8ym845xy0I/AAAAAAAABOE/kuBXBggzDwMsH50BM83tS3qdPyn1JmNnQCLcBGAsYHQ/s196/maskable_icon.png",
@@ -48,6 +48,10 @@
             "type": "image/png"
         }
     ],
+    serviceworker: {
+      src: "\/sw.js"
+    }
+    
     "url": "https://www.trapashowplay.com/",
     "screenshots": []
 }
