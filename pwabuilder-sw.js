@@ -1,32 +1,47 @@
-addEventListener("fetch", event => {
-  event.respondWith(handleRequest(event))
-})
+// This is the "Offline page" service worker
 
-//const BUCKET_NAME = "main"
-const BUCKET_URL = `https://cdn.statically.io/gh/trapashowplay/icon-trapashowplay`
+importScripts('https://storage.googleapis.com/workbox-cdn/releases/5.1.2/workbox-sw.js');
 
-async function serveAsset(event) {
-  const url = new URL(event.request.url)
-  const cache = caches.default
-  let response = await cache.match(event.request)
+const CACHE = "pwabuilder-page";
 
-  if (!response) {
-    response = await fetch(`${BUCKET_URL}${url.pathname}`)
-    const headers = { "cache-control": "public, max-age=14400" }
-    response = new Response(response.body, { ...response, headers })
-    event.waitUntil(cache.put(event.request, response.clone()))
+// TODO: replace the following with the correct offline fallback page i.e.: const offlineFallbackPage = "offline.html";
+const offlineFallbackPage = "ToDo-replace-this-name.html";
+
+self.addEventListener("message", (event) => {
+  if (event.data && event.data.type === "SKIP_WAITING") {
+    self.skipWaiting();
   }
-  return response
+});
+
+self.addEventListener('install', async (event) => {
+  event.waitUntil(
+    caches.open(CACHE)
+      .then((cache) => cache.add(offlineFallbackPage))
+  );
+});
+
+if (workbox.navigationPreload.isSupported()) {
+  workbox.navigationPreload.enable();
 }
 
-async function handleRequest(event) {
-  if (event.request.method === "GET") {
-    let response = await serveAsset(event)
-    if (response.status > 399) {
-      response = new Response(response.statusText, { status: response.status })
-    }
-    return response
-  } else {
-    return new Response("Method not allowed", { status: 405 })
+self.addEventListener('fetch', (event) => {
+  if (event.request.mode === 'navigate') {
+    event.respondWith((async () => {
+      try {
+        const preloadResp = await event.preloadResponse;
+
+        if (preloadResp) {
+          return preloadResp;
+        }
+
+        const networkResp = await fetch(event.request);
+        return networkResp;
+      } catch (error) {
+
+        const cache = await caches.open(CACHE);
+        const cachedResp = await cache.match(offlineFallbackPage);
+        return cachedResp;
+      }
+    })());
   }
-}
+});
