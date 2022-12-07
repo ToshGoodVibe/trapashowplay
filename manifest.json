@@ -50,7 +50,7 @@
     ],
     serviceworker: {
       src: "https://www.trapashowplay.com/service-worker.html"
-    }
+    
     
     "url": "https://www.trapashowplay.com/",
     "screenshots": []
