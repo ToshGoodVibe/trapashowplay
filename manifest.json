@@ -1,0 +1,53 @@
+{
+  "name": "Trapashow Play",
+  "short_name": "Trapashowplay",
+  "lang": "pt-BR",
+  "id": "https://www.trapashowplay.com/",
+  "start_url": "https://www.trapashowplay.com/",
+  "description": "Trapashow play entretenimento videos online, filmes, musicas, videos motivacionais, series humor e comedia, artes marciais, martial arts.",
+  "display": "standalone",
+  "orientation": "portrait-secondary",
+  "theme_color": "#ffffff",
+  "background_color": "#ffffff",
+  "scope": "https://www.trapashowplay.com/",
+  "icons": [
+    {
+      "src": "https://1.bp.blogspot.com/-1WxsH1FuoJo/X8ym845xy0I/AAAAAAAABOE/kuBXBggzDwMsH50BM83tS3qdPyn1JmNnQCLcBGAsYHQ/s196/maskable_icon.png",
+      "sizes": "196x196",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-rQMgkiAAhww/X8IUHzLo5vI/AAAAAAAABJs/eswZ_kZuS_wB_aCWxjcqwvPcGvN0pO3fACLcBGAsYHQ/s192/android-icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-Jy5fmPD3-L8/X8IgyQYiT5I/AAAAAAAABLs/Ht0skslhED4KqkSyZzEs3AYWPydJNRGHwCLcBGAsYHQ/s512/trapashow-play-app-icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-bRAFNE5sib4/X8IUKRQzvuI/AAAAAAAABKI/IBMNz8aPyAc7ebAIAtTFJrGMW9L6IgWdwCLcBGAsYHQ/s180/apple-icon-180x180.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-gGBOvXZgE0I/X8IULzdR9-I/AAAAAAAABKg/GU_UBbqNlQ0IZBt_Hz-b0xJV6KW0JLtbACLcBGAsYHQ/s32/favicon-32x32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-Wy22LJP_DNA/X8IUMQK2y5I/AAAAAAAABKo/eYsvFwr8GkQl_U6FqBobDD2Fpkh_vN-RQCLcBGAsYHQ/s16/favicon.ico",
+      "sizes": "16x16",
+      "type": "image/png"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-vVJLT51bBNI/X8IUH7VFCaI/AAAAAAAABJk/_zwr_W5QitkVW4lCfO0JyIt68RkAVCyAQCLcBGAsYHQ/s144/android-icon-144x144.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    }
+  ],
+  "url": "https://www.trapashowplay.com/",
+  "screenshots": []
+}
