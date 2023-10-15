@@ -11,7 +11,7 @@
   "max_cache_size": 1024,
   "theme_color": "#ffffff",
   "background_color": "#ffffff",
-  "scope": "https://www.trapashowplay.com/",
+  "scope": "/",
   "notification": {
     "title": "Trapashowplay",
     "body": "Notificação push do Trapashowplay",
@@ -20,7 +20,7 @@
       {
         "action": "open",
         "title": "Abrir",
-      }
+     
     ],
   },
   "icons": [
