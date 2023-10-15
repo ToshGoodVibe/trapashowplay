@@ -15,10 +15,10 @@
     "body": "Notificação push do Trapashowplay",
     "icon": "/images/icon.png",
     "actions": [
-      {
+      
         "action": "open",
         "title": "Abrir",
-      },
+      
     ],
   },
   "scope": "https://www.trapashowplay.com/",
