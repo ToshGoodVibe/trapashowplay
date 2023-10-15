@@ -1,5 +1,5 @@
 {
- "name": "Trapashow Play",
+  "name": "Trapashow Play",
   "short_name": "Trapashowplay",
   "lang": "pt-BR",
   "id": "https://www.trapashowplay.com/",
@@ -101,5 +101,33 @@
       "sizes": "750x1334",
       "type": "image/png"
     }
+  ],
+  "dir": "auto",
+  "display_override": [
+    "standalone",
+    "window-controls-overlay"
+  ],
+  "shortcuts": [
+    {
+      "name": "Musicas / Tradução / Legendas",
+      "url": "https://www.trapashowplay.com/search/label/musicas",
+      "description": "Musicas: Venha ouvir e ver as melhores traduções de musicas de sucesso."
+    },
+    {
+      "name": "Filmes ",
+      "url": "https://www.trapashowplay.com/search/label/filmes",
+      "description": "Filmes: Venha ver as melhores trilhas sonoras de filmes, ver resenha sobre os melhores filmes anos 80, assistir filmes disponíveis, filmes de ação, comedia e aventura."
+    },
+    {
+      "name": "Motivação",
+      "url": "https://www.trapashowplay.com/search/label/videos-motivacionais",
+      "description": "Motivação: Venha assistir os melhores vídeos motivacionais da web"
+    }
+  ],
+  "categories": [
+    "education",
+    "entertainment",
+    "music",
+    "sports"
   ]
 }
