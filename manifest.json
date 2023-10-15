@@ -136,14 +136,4 @@
     "music",
     "sports"
   ],
-  "share_target": {
-    "method": "GET",
-    "params": {
-      "title": "Compartilhar",
-      "text": "Compartilhe",
-      "url": "https://www.trapashowplay.com/",
-      "files": []
-    },
-    "action": "https://www.trapashowplay.com/"
-  }
 }
