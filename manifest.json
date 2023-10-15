@@ -126,8 +126,7 @@
         "purpose": "any"
       }
     ]
-  }
-    },
+  },
     {
       "name": "Filmes ",
       "url": "https://www.trapashowplay.com/search/label/filmes",
@@ -139,8 +138,7 @@
         "purpose": "any"
       }
     ]
-  }
-    },
+  },
     {
       "name": "Motivação",
       "url": "https://www.trapashowplay.com/search/label/videos-motivacionais",
@@ -152,8 +150,7 @@
         "purpose": "any"
       }
     ]
-  }
-    }
+  },
   ],
   "categories": [
     "education",
