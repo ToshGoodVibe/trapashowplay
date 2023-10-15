@@ -15,7 +15,9 @@
   "notification": {
     "title": "Trapashowplay",
     "body": "Notificação push do Trapashowplay",
-    "icon": "/images/icon.png",
+    "icon":  "src": "https://1.bp.blogspot.com/-rQMgkiAAhww/X8IUHzLo5vI/AAAAAAAABJs/eswZ_kZuS_wB_aCWxjcqwvPcGvN0pO3fACLcBGAsYHQ/s192/android-icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
     "actions": [
       {
         "action": "open",
