@@ -12,12 +12,12 @@
   "max_cache_size": 1024,
   "scope": "https://www.trapashowplay.com/",
   "icons": [
-   {
-        "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpaAumDT8iAt0-aYxQB-Y5K8YECGSYVF8-eqQJdHxKoQ2rZ2xCHfAgzqMRlzJXbVucvkBt1Oy19ZFE6o-GLXdeontMRZsrgQXnlaTrtO093Ioj3mcbxASzv7C7_KMyRWig5OpxefuBxwfQYxoWunVpeSjPYx7mLZg_ImdetInbIRhFZcCXTQQS0aLIyiU/s1600/android-launchericon-96-96.png",
-        "sizes": "96x96",
-        "type": "image/png",
-        "purpose": "any"
-      }
+     {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpaAumDT8iAt0-aYxQB-Y5K8YECGSYVF8-eqQJdHxKoQ2rZ2xCHfAgzqMRlzJXbVucvkBt1Oy19ZFE6o-GLXdeontMRZsrgQXnlaTrtO093Ioj3mcbxASzv7C7_KMyRWig5OpxefuBxwfQYxoWunVpeSjPYx7mLZg_ImdetInbIRhFZcCXTQQS0aLIyiU/s1600/android-launchericon-96-96.png",
+      "sizes": "96x96",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
     
     {
       "src": "https://1.bp.blogspot.com/-1WxsH1FuoJo/X8ym845xy0I/AAAAAAAABOE/kuBXBggzDwMsH50BM83tS3qdPyn1JmNnQCLcBGAsYHQ/s196/maskable_icon.png",
@@ -129,10 +129,6 @@
       "name": "Motivação",
       "url": "https://www.trapashowplay.com/search/label/videos-motivacionais",
       "description": "Motivação: Venha assistir os melhores vídeos motivacionais da web"
-      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpaAumDT8iAt0-aYxQB-Y5K8YECGSYVF8-eqQJdHxKoQ2rZ2xCHfAgzqMRlzJXbVucvkBt1Oy19ZFE6o-GLXdeontMRZsrgQXnlaTrtO093Ioj3mcbxASzv7C7_KMyRWig5OpxefuBxwfQYxoWunVpeSjPYx7mLZg_ImdetInbIRhFZcCXTQQS0aLIyiU/s1600/android-launchericon-96-96.png",
-        "sizes": "96x96",
-        "type": "image/png",
-        "purpose": "any"
     }
   ],
   "categories": [
