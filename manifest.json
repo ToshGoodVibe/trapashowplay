@@ -144,6 +144,6 @@
       "url": "https://www.trapashowplay.com/",
       "files": []
     },
-    "action": "/share-action/?title=example+share+title&amp;text=example+share+text"
+    "action": "https://www.trapashowplay.com/share-action/?title=example+share+title&amp;text=example+share+text"
   }
 }
