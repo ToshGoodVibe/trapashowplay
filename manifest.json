@@ -12,17 +12,6 @@
   "theme_color": "#ffffff",
   "background_color": "#ffffff",
   "scope": "/",
-  "notification": {
-    "title": "Trapashowplay",
-    "body": "Notificação push do Trapashowplay",
-    "icon": "/images/icon.png",
-    "actions": [
-      {
-        "action": "open",
-        "title": "Abrir",
-     
-    ],
-  },
   "icons": [
     {
       "src": "https://1.bp.blogspot.com/-1WxsH1FuoJo/X8ym845xy0I/AAAAAAAABOE/kuBXBggzDwMsH50BM83tS3qdPyn1JmNnQCLcBGAsYHQ/s196/maskable_icon.png",
