@@ -3,7 +3,7 @@
   "short_name": "Trapashowplay",
   "lang": "pt-BR",
   "id": "https://www.trapashowplay.com/",
-  "start_url": "/index.html",
+  "start_url": "https://www.trapashowplay.com/",
   "description": "Trapashow play entretenimento videos online, filmes, musicas, videos motivacionais, series humor e comedia, artes marciais, martial arts.",
   "display": "standalone",
   "orientation": "portrait-secondary",
