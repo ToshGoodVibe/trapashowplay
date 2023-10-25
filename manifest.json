@@ -111,7 +111,7 @@
   ],
   "dir": "auto",
   "display_override": [
-    "standalone",
+    "minimal-ui",
     "window-controls-overlay"
   ],
   "shortcuts": [
