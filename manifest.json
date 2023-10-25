@@ -5,7 +5,7 @@
   "id": "https://www.trapashowplay.com/",
   "start_url": "https://www.trapashowplay.com/",
   "description": "Trapashow play entretenimento videos online, filmes, musicas, videos motivacionais, series humor e comedia, artes marciais, martial arts.",
-  "display": "standalone",
+  "display": "minimal-ui",
   "orientation": "portrait-secondary",
   "theme_color": "#000",
   "background_color": "#000",
