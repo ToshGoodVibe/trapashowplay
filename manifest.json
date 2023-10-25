@@ -7,8 +7,8 @@
   "description": "Trapashow play entretenimento videos online, filmes, musicas, videos motivacionais, series humor e comedia, artes marciais, martial arts.",
   "display": "standalone",
   "orientation": "portrait-secondary",
-  "theme_color": "#ffffff",
-  "background_color": "#ffffff",
+  "theme_color": "#000",
+  "background_color": "#000",
   "max_cache_size": 1024,
   "scope": "https://www.trapashowplay.com/",
   "icons": [
