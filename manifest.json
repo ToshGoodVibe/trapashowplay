@@ -10,7 +10,7 @@
   "theme_color": "#000000",
   "background_color": "#000000",
   "max_cache_size": 1024,
-  "scope": "/",
+  "scope": "https://www.trapashowplay.com/",
   "icons": [
     {
       "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpaAumDT8iAt0-aYxQB-Y5K8YECGSYVF8-eqQJdHxKoQ2rZ2xCHfAgzqMRlzJXbVucvkBt1Oy19ZFE6o-GLXdeontMRZsrgQXnlaTrtO093Ioj3mcbxASzv7C7_KMyRWig5OpxefuBxwfQYxoWunVpeSjPYx7mLZg_ImdetInbIRhFZcCXTQQS0aLIyiU/s1600/android-launchericon-96-96.png",
@@ -121,7 +121,8 @@
   "dir": "auto",
   "display_override": [
     "minimal-ui",
-    "window-controls-overlay"
+    "window-controls-overlay",
+    "standalone"
   ],
   "shortcuts": [
     {
@@ -173,7 +174,7 @@
     "utilities"
   ],
   "share_target": {
-    "method": "POST",
+    "method": "GET",
     "action": "https://www.trapashowplay.com/",
     "params": {
       "title": "title",
