@@ -174,7 +174,7 @@
     "utilities"
   ],
   "share_target": {
-    "method": "GET",
+    "method": "POST",
     "action": "https://www.trapashowplay.com/",
     "params": {
       "title": "title",
@@ -187,15 +187,15 @@
   "protocol_handlers": [
     {
       "protocol": "web+trapashowplay",
-      "url": "/search/label/filmes"
+      "url": "/search/label/filmes?m=1"
     },
     {
       "protocol": "web+trapashowplay",
-      "url": "/search/label/musicas"
+      "url": "/search/label/musica?m=1"
     },
     {
       "protocol": "web+trapashowplay",
-      "url": "/search/label/videos-motivacionais"
+      "url": "/label/videos-motivacionais?m=1"
     }
   ],
   "permissions": [
