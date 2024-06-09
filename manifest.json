@@ -209,3 +209,16 @@
     "preferred_width": 0
   }
 }
+{
+  "handle_links": "preferred",
+  "scope_extensions": [
+    {"origin": "*.trapashowplay.com"},
+    {"origin": "docs.trapashowplay.com"},
+    {"origin": "*.trapashowplay.com"}
+  ],
+  "web_apps": [
+    {
+      "web_app_identity": "https://www.trapashowplay.com"
+    }
+  ]
+}
