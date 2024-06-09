@@ -208,10 +208,4 @@
   "edge_side_panel": {
     "preferred_width": 0
   }
-  "handle_links": "preferred"
-  "scope_extensions": [
-    {"origin": "*.trapashowplay.com"},
-    {"origin": "www.trapashowplay.com"},
-    {"origin": "*trapashowplay.com"},
-  ]
 }
