@@ -6,7 +6,7 @@
   "start_url": "https://www.trapashowplay.com/",
   "description": "Trapashowplay Streaming de conteúdo brasileiro e internacional gratuito *filmes* *séries* *músicas* *artes marciais* *vídeos motivacionais",
   "display": "minimal-ui",
-  "orientation": "portrait-secondary",
+  "orientation": "landscape",
   "theme_color": "#000000",
   "background_color": "#000000",
   "max_cache_size": 1024,
