@@ -5,7 +5,7 @@
   "id": "https://www.trapashowplay.com/",
   "start_url": "https://www.trapashowplay.com/",
   "description": "Trapashowplay Streaming de conteúdo brasileiro e internacional gratuito *filmes* *séries* *músicas* *artes marciais* *vídeos motivacionais",
-  "display": "minimal-ui",
+  "display": "standalone",
   "orientation": "landscape",
   "theme_color": "#000000",
   "background_color": "#000000",
@@ -120,8 +120,8 @@
   ],
   "dir": "auto",
   "display_override": [
-    "minimal-ui",
     "standalone",
+    "minimal-ui",
     "window-controls-overlay"
   ],
   "shortcuts": [
