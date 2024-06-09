@@ -121,8 +121,8 @@
   "dir": "auto",
   "display_override": [
     "minimal-ui",
-    "window-controls-overlay",
-    "standalone"
+    "standalone",
+    "window-controls-overlay"
   ],
   "shortcuts": [
     {
