@@ -186,17 +186,17 @@
   },
   "prefer_related_applications": false,
   "protocol_handlers": [
-    {
+     {
     "protocol": "web+trapashowplay",
-    "url": "/filmes?type=%s"
+    "url": "/filmes"
   },
   {
     "protocol": "web+trapashowplay",
-    "url": "/musicas?type=%s"
+    "url": "/musicas"
   },
   {
     "protocol": "web+trapashowplay",
-    "url": "/videos-motivacionais?type=%s"
+    "url": "/videos-motivacionais"
   }
   ],
   "permissions": [
