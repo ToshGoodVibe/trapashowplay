@@ -185,7 +185,7 @@
     "enctype": "multipart/form-data"
   },
   "prefer_related_applications": false,
-  "protocol_handlers": [
+  "protocol_handlers": {
     "trapashowplay": {
       "protocol": "trapashowplay",
       "url": {
@@ -194,7 +194,7 @@
         "videos-motivacionais": "https://www.trapashowplay.com/search/label/videos-motivacionais"
       }
     }
-  ],
+  },
   "edge_side_panel": {
     "preferred_width": 0
   }
