@@ -188,15 +188,15 @@
   "protocol_handlers": [
     {
       "protocol": "web+trapashowplay",
-      "url": "/filmes?=%s"
+      "url": "/filmes?type=%s"
     },
     {
       "protocol": "web+trapashowplay",
-      "url": "/musicas?=%s"
+      "url": "/musicas?type=%s"
     },
     {
       "protocol": "web+trapashowplay",
-      "url": "/videos-motivacionais?=%s"
+      "url": "/videos-motivacionais?type=%s"
     }
   ],
   "permissions": [
