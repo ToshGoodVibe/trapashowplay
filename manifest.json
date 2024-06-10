@@ -186,12 +186,13 @@
   },
   "prefer_related_applications": false,
   "protocol_handlers": [
-      "protocol": "trapashowplay",
+      "protocol": "trapashowplay",{
       "url": {
         "musicas": "https://www.trapashowplay.com/search/label/musicas",
         "filmes": "https://www.trapashowplay.com/search/label/filmes",
         "videos-motivacionais": "https://www.trapashowplay.com/search/label/videos-motivacionais"
       }
+	  }
   ],
   "permissions": [
     {
