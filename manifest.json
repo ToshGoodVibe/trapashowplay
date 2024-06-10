@@ -187,17 +187,17 @@
   "prefer_related_applications": false,
   "protocol_handlers": [
     {
-      "protocol": "web+trapashowplay:filmes",
-      "url": "/filmes?type=%s"
-    },
-    {
-      "protocol": "web+trapashowplay:musicas",
-      "url": "/musicas?type=%s"
-    },
-    {
-      "protocol": "web+trapashowplay:videos-motivacionais",
-      "url": "/videos-motivacionais?type=%s"
-    }
+    "protocol": "web+trapashowplay",
+    "url": "/filmes?type=%s"
+  },
+  {
+    "protocol": "web+trapashowplay",
+    "url": "/musicas?type=%s"
+  },
+  {
+    "protocol": "web+trapashowplay",
+    "url": "/videos-motivacionais?type=%s"
+  }
   ],
   "permissions": [
     {
