@@ -185,8 +185,8 @@
     "enctype": "multipart/form-data"
   },
   "prefer_related_applications": false,
-  "protocol_handlers": {
-    "trapashowplay": {
+  "protocol_handlers": [
+ "trapashowplay": {
       "protocol": "trapashowplay",
       "url": {
         "musicas": "https://www.trapashowplay.com/search/label/musicas",
@@ -194,7 +194,13 @@
         "videos-motivacionais": "https://www.trapashowplay.com/search/label/videos-motivacionais"
       }
     }
-  }
+  ],
+  "permissions": [
+    {
+      "url": "https://www.trapashowplay.com/",
+      "match": "contains"
+    }
+  ],
   "edge_side_panel": {
     "preferred_width": 0
   }
