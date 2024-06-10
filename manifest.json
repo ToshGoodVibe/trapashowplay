@@ -186,23 +186,13 @@
   },
   "prefer_related_applications": false,
   "protocol_handlers": [
-    {
-      "protocol": "web+trapashowplay",
-      "url": "/filmes?type=%s"
-    },
-    {
-      "protocol": "web+trapashowplay",
-      "url": "/musicas?type=%s"
-    },
-    {
-      "protocol": "web+trapashowplay",
-      "url": "/videos-motivacionais?type=%s"
-    }
-  ],
-  "permissions": [
-    {
-      "url": "https://www.trapashowplay.com/",
-      "match": "contains"
+    "trapashowplay": {
+      "protocol": "trapashowplay",
+      "url": {
+        "musicas": "https://www.trapashowplay.com/search/label/musicas",
+        "filmes": "https://www.trapashowplay.com/search/label/filmes",
+        "videos-motivacionais": "https://www.trapashowplay.com/search/label/videos-motivacionais"
+      }
     }
   ],
   "edge_side_panel": {
