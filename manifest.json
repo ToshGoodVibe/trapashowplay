@@ -2,7 +2,7 @@
   "name": "Trapashowplay Streaming Videos",
   "short_name": "Trapashowplay",
   "lang": "pt-BR",
-  "id": "https://www.trapashowplay.com/",
+  "id": "https://www.trapashowplay.com",
   "start_url": "https://www.trapashowplay.com/",
   "description": "Trapashowplay Streaming de conteúdo brasileiro e internacional gratuito *filmes* *séries* *músicas* *artes marciais* *vídeos motivacionais",
   "display": "minimal-ui",
@@ -201,7 +201,7 @@
   ],
   "permissions": [
     {
-      "url": "https://www.trapashowplay.com",
+      "url": "https://www.trapashowplay.com/",
       "match": "contains"
     }
   ],
