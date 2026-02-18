@@ -2,9 +2,9 @@
   "name": "Trapashowplay Streaming Videos",
   "short_name": "TrapaShowPlay",
   "lang": "pt-BR",
-  "id": "/",
-  "start_url": "/",
-  "scope": "/",
+  "id": "https://www.trapashowplay.com/",
+  "start_url": "https://www.trapashowplay.com/",
+  "scope": "https://www.trapashowplay.com/",
   "description": "Streaming de conteúdo gratuito: filmes, músicas, artes marciais e motivação.",
   "display": "standalone",
   "display_override": [
@@ -26,13 +26,13 @@
   },
   "icons": [
     {
-      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpaAumDT8iAt0-aYxQB-Y5K8YECGSYVF8-eqQJdHxKoQ2rZ2xCHfAgzqMRlzJXbVucvkBt1Oy19ZFE6o-GLXdeontMRZsrgQXnlaTrtO093Ioj3mcbxASzv7C7_KMyRWig5OpxefuBxwfQYxoWunVpeSjPYx7mLZg_ImdetInbIRhFZcCXTQQS0aLIyiU/s1600/android-launchericon-96-96.png",
-      "sizes": "512x512",
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpaAumDT8iAt0-aYxQB-Y5K8YECGSYVF8-eqQJdHxKoQ2rZ2xCHfAgzqMRlzJXbVucvkBt1Oy19ZFE6o-GLXdeontMRZsrgQXnlaTrtO093Ioj3mcbxASzv7C7_KMyRWig5OpxefuBxwfQYxoWunVpeSjPYx7mLZg_ImdetInbIRhFZcCXTQQS0aLIyiU/s192/android-launchericon-96-96.png",
+      "sizes": "192x192",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpaAumDT8iAt0-aYxQB-Y5K8YECGSYVF8-eqQJdHxKoQ2rZ2xCHfAgzqMRlzJXbVucvkBt1Oy19ZFE6o-GLXdeontMRZsrgQXnlaTrtO093Ioj3mcbxASzv7C7_KMyRWig5OpxefuBxwfQYxoWunVpeSjPYx7mLZg_ImdetInbIRhFZcCXTQQS0aLIyiU/s1600/android-launchericon-96-96.png",
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpaAumDT8iAt0-aYxQB-Y5K8YECGSYVF8-eqQJdHxKoQ2rZ2xCHfAgzqMRlzJXbVucvkBt1Oy19ZFE6o-GLXdeontMRZsrgQXnlaTrtO093Ioj3mcbxASzv7C7_KMyRWig5OpxefuBxwfQYxoWunVpeSjPYx7mLZg_ImdetInbIRhFZcCXTQQS0aLIyiU/s512/android-launchericon-96-96.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"
@@ -54,23 +54,26 @@
       "label": "Interface Mobile"
     }
   ],
+  "protocol_handlers": [
+    {
+      "protocol": "web+trapashow",
+      "url": "/?url=%s"
+    }
+  ],
   "shortcuts": [
     {
       "name": "Músicas",
-      "url": "/search/label/musicas",
-      "description": "Ouça as melhores trilhas e traduções",
+      "url": "https://www.trapashowplay.com/search/label/musicas",
       "icons": [{ "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpaAumDT8iAt0-aYxQB-Y5K8YECGSYVF8-eqQJdHxKoQ2rZ2xCHfAgzqMRlzJXbVucvkBt1Oy19ZFE6o-GLXdeontMRZsrgQXnlaTrtO093Ioj3mcbxASzv7C7_KMyRWig5OpxefuBxwfQYxoWunVpeSjPYx7mLZg_ImdetInbIRhFZcCXTQQS0aLIyiU/s96/android-launchericon-96-96.png", "sizes": "96x96" }]
     },
     {
       "name": "Filmes",
-      "url": "/search/label/filmes",
-      "description": "Clássicos e curiosidades do cinema",
+      "url": "https://www.trapashowplay.com/search/label/filmes",
       "icons": [{ "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpaAumDT8iAt0-aYxQB-Y5K8YECGSYVF8-eqQJdHxKoQ2rZ2xCHfAgzqMRlzJXbVucvkBt1Oy19ZFE6o-GLXdeontMRZsrgQXnlaTrtO093Ioj3mcbxASzv7C7_KMyRWig5OpxefuBxwfQYxoWunVpeSjPYx7mLZg_ImdetInbIRhFZcCXTQQS0aLIyiU/s96/android-launchericon-96-96.png", "sizes": "96x96" }]
     },
     {
       "name": "Motivação",
-      "url": "/search/label/videos-motivacionais",
-      "description": "Vídeos para inspirar seu dia",
+      "url": "https://www.trapashowplay.com/search/label/videos-motivacionais",
       "icons": [{ "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpaAumDT8iAt0-aYxQB-Y5K8YECGSYVF8-eqQJdHxKoQ2rZ2xCHfAgzqMRlzJXbVucvkBt1Oy19ZFE6o-GLXdeontMRZsrgQXnlaTrtO093Ioj3mcbxASzv7C7_KMyRWig5OpxefuBxwfQYxoWunVpeSjPYx7mLZg_ImdetInbIRhFZcCXTQQS0aLIyiU/s96/android-launchericon-96-96.png", "sizes": "96x96" }]
     }
   ]
