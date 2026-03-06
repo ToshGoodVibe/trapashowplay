@@ -26,17 +26,17 @@
   },
   "icons": [
     {
-      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpaAumDT8iAt0-aYxQB-Y5K8YECGSYVF8-eqQJdHxKoQ2rZ2xCHfAgzqMRlzJXbVucvkBt1Oy19ZFE6o-GLXdeontMRZsrgQXnlaTrtO093Ioj3mcbxASzv7C7_KMyRWig5OpxefuBxwfQYxoWunVpeSjPYx7mLZg_ImdetInbIRhFZcCXTQQS0aLIyiU/s96-rw/android-launchericon-96-96.png",
-      "sizes": "96x96",
-      "type": "image/png",
-      "purpose": "any"
-    },
-    {
       "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhK7hEJ63v4EuMtVFvR56kvt0DC6W11e6JfxfbLdS6o3XSU0GoQaA8TsnIPQHCObzNSiFij2rDqiJYdRplq-q0Xow9VGHISh030PqZd_2jAjFyVhpvCsUwtz4kWsRr4Ulz7QRQsRsj1NH0/s144-rw/android-icon-144x144.png",
       "sizes": "144x144",
       "type": "image/png",
       "purpose": "any"
     },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpaAumDT8iAt0-aYxQB-Y5K8YECGSYVF8-eqQJdHxKoQ2rZ2xCHfAgzqMRlzJXbVucvkBt1Oy19ZFE6o-GLXdeontMRZsrgQXnlaTrtO093Ioj3mcbxASzv7C7_KMyRWig5OpxefuBxwfQYxoWunVpeSjPYx7mLZg_ImdetInbIRhFZcCXTQQS0aLIyiU/s96-rw/android-launchericon-96-96.png",
+      "sizes": "96x96",
+      "type": "image/png",
+      "purpose": "any"
+    }, 
     {
       "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhK7hEJ63v4EuMtVFvR56kvt0DC6W11e6JfxfbLdS6o3XSU0GoQaA8TsnIPQHCObzNSiFij2rDqiJYdRplq-q0Xow9VGHISh030PqZd_2jAjFyVhpvCsUwtz4kWsRr4Ulz7QRQsRsj1NH0/s144-rw/android-icon-144x144.png",
       "sizes": "144x144",
@@ -78,4 +78,5 @@
     }
   ]
 }
+
 
