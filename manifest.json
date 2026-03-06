@@ -47,13 +47,25 @@
       "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQfyZiXLES0quNzybkXzR1WLLUux-g6fqsrT_A7gTMChrGq2z2YeRGVZu0QpQh5ylwOqwuaNqcc_hiyMBoshx9A4fofC_1Hn1re3wSXXckemqosEK7R-tlBWMsahBnvxMsD_oXxyzz84o/s192-rw/android-icon-192x192.png",
       "sizes": "192x192",
       "type": "image/png",
-      "purpose": "any maskable"
+      "purpose": "any"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQfyZiXLES0quNzybkXzR1WLLUux-g6fqsrT_A7gTMChrGq2z2YeRGVZu0QpQh5ylwOqwuaNqcc_hiyMBoshx9A4fofC_1Hn1re3wSXXckemqosEK7R-tlBWMsahBnvxMsD_oXxyzz84o/s192-rw/android-icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
     },
     {
       "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDVb-2ENS3qiCG8tAhIJIN2Tq8A5-ApG2KBOR82rc4XJR2l4Dp0rAwTRdndJuNcQQ14wOR2FcHvlPMF_RD37LEwZoy0mci0V9FwAyAsYj88sEQWCLUJl22bsRkw-RttGgYNVXt2JIm1L8/s512-rw/trapashow-play-app-icon.png",
       "sizes": "512x512",
       "type": "image/png",
-      "purpose": "any maskable"
+      "purpose": "any"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDVb-2ENS3qiCG8tAhIJIN2Tq8A5-ApG2KBOR82rc4XJR2l4Dp0rAwTRdndJuNcQQ14wOR2FcHvlPMF_RD37LEwZoy0mci0V9FwAyAsYj88sEQWCLUJl22bsRkw-RttGgYNVXt2JIm1L8/s512-rw/trapashow-play-app-icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
     }
   ],
   "screenshots": [
@@ -96,6 +108,16 @@
     {
       "name": "Motivação",
       "url": "https://www.trapashowplay.com/search/label/videos-motivacionais",
+      "icons": [
+        {
+          "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhK7hEJ63v4EuMtVFvR56kvt0DC6W11e6JfxfbLdS6o3XSU0GoQaA8TsnIPQHCObzNSiFij2rDqiJYdRplq-q0Xow9VGHISh030PqZd_2jAjFyVhpvCsUwtz4kWsRr4Ulz7QRQsRsj1NH0/s96-rw/android-icon-144x144.png",
+          "sizes": "96x96"
+        }
+      ]
+    },
+    {
+      "name": "Artes Marciais",
+      "url": "https://www.trapashowplay.com/search/label/artes-marciais",
       "icons": [
         {
           "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhK7hEJ63v4EuMtVFvR56kvt0DC6W11e6JfxfbLdS6o3XSU0GoQaA8TsnIPQHCObzNSiFij2rDqiJYdRplq-q0Xow9VGHISh030PqZd_2jAjFyVhpvCsUwtz4kWsRr4Ulz7QRQsRsj1NH0/s96-rw/android-icon-144x144.png",
